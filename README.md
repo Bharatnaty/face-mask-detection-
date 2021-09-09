@@ -1,6 +1,8 @@
 # FACE-MASK-DETECTION-
 TENSORFLOW :https://www.tensorflow.org/overview <br>
 OPENCV :https://docs.opencv.org/master/ <br>
+# MODEL
+![face_mask_detection_phases](https://user-images.githubusercontent.com/47810389/132731988-9dde289b-c3ed-42b1-ae0e-f516bb3fac1d.png)
 # TUTORIAL
 TENSORFLOW:https://www.tensorflow.org/tutorials<br>
 OPENCV:https://www.geeksforgeeks.org/opencv-python-tutorial/ <br>
