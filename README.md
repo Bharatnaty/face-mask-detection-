@@ -1,4 +1,4 @@
-# face-mask-detection-
+# FACE-MASK-DETECTION-
 TENSORFLOW :https://www.tensorflow.org/overview <br>
 OPENCV :https://docs.opencv.org/master/ <br>
 # TUTORIAL
